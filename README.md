@@ -9,3 +9,12 @@ to enjoy over 400 sessions and many occasions to chat and exchange.
 Our website uses the nanoc static site generator, and we did implement a lot of custom
 code to support our workflow as painlessly as possible.
 Maybe some bits of those will be an inspiration or of help.
+
+# System software dependencies
+
+Some Ruby gems rely on software written in C. Install this via apt, yum, pacman or
+whatever system package manager you use. Do this before you attempt to
+run `bundle install` (otherwise it will fail).
+
+## Ubuntu 14.04, 16.04
+sudo apt-get install libmagickwand-dev imagemagick
