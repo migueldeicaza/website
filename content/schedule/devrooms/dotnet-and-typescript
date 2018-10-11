@@ -1,0 +1,14 @@
+The .NET and TypeScript developer room discusses the C#, F# and TypeScript languages,
+their runtime, ecosystem.
+
+We will discuss how we evolve languages, runtimes and libraries to solve modern problems,
+how you can use these platforms and how to contribute or participate in these communities.
+
+TypeScript is a language that provides strong-typing on top of Javascript and is designed
+to help build large systems and ease maintenance and joy for developers, C# is the venerable
+language that was introduced with .NET and F# is a language in the OCaml family that is
+the functional platform for .NET developers.
+
+.NET and Javascript are now available on every imaginable corner and platform of the world,
+and we hope to exchange ideas of usage, idioms, and programming patterns that are useful
+in those different environments.
